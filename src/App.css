@@ -1,0 +1,10 @@
+.App{
+  color: black;
+  background-image: linear-gradient(rgb(222, 182, 130),rgb(166, 133, 208),pink);
+  text-align: center;
+  border:2px solid ;
+  border-radius: 20%;
+}
+#root{
+  background-color: yellowgreen;
+}
