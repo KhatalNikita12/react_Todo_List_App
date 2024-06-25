@@ -12,9 +12,9 @@ export default function Header(props) {
     </button>
     <div className="collapse navbar-collapse" id="navbarNav">
       <ul className="navbar-nav">
-        <li className="nav-item">
-          <Link className="nav-link active" aria-current="page" to="/">AddToDo</Link>
-        </li>
+        {/* <li className="nav-item">
+          <Link className="nav-link active" aria-current="page" to="/add">AddToDo</Link>
+        </li> */}
         <li className="nav-item">
           <Link className="nav-link" to="/view">ViewTodo</Link>
         </li>

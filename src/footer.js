@@ -9,7 +9,7 @@ function footer() {
   return (
     <footer className='bg-dark text-light py-3' style={footerStyle}>
 <p className='text-center'>
-    Copyright @copy; Khatal Nikita
+     All rights are reserved by  Khatal Nikita
 </p>
     </footer>
   )
